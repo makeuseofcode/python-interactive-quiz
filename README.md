@@ -10,7 +10,7 @@ This tutorial includes the different questions you can ask a user in a quiz. Man
 
 ## To Run
 
-- Open the command line or terminal, and navigate to the file where the python script is stored. For example: `cd C:\Users\Sharl\Desktop\python-quiz`
+- Open the command line or terminal, and navigate to the file where the python script is stored. For example: `cd C:\Users\Sharl\Desktop`
 - Run the python command: `python InteractiveQuiz.py`
 - The quiz will start.
 
